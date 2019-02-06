@@ -1,0 +1,1 @@
+This is an example of how project 1 needs to be submitted.  All content that will be graded is either contained in the Project1 folder or in git itself (commits, pull requests, etc.).  Students repositories will contain the rest of the Raider Planner fork as well as their Project1 submission folder.
